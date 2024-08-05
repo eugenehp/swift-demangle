@@ -5,3 +5,6 @@ authors = ["Eugene Hauptmann <e@eugenehp.de>"]
 edition = "2018"
 links = "swiftCore"
 repository = "https://github.com/eugenehp/swift-demangle"
+description = "A Swift Demangle function in Rust"
+keywords = ["swift", "demangle", "runtime"]
+license = "MIT"
