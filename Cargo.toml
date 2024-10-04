@@ -6,5 +6,6 @@ edition = "2018"
 links = "swiftCore"
 repository = "https://github.com/eugenehp/swift-demangle"
 description = "A Swift Demangle function in Rust"
-keywords = ["swift", "demangle", "runtime"]
+keywords = ["cli", "swift", "demangle", "runtime"]
 license = "MIT"
+categories = ["command-line-utilities"]
