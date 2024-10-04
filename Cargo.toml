@@ -1,6 +1,6 @@
 [package]
 name = "swift-demangle"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Eugene Hauptmann <e@eugenehp.de>"]
 edition = "2018"
 links = "swiftCore"
